@@ -43,7 +43,7 @@ const Quiz = () => {
     setScore(0);
     setCurrentQuestionIndex(0);
   };
-
+// Adding a comment for testing
   if (!quizStarted) {
     return (
       <div className="p-4 text-center">
