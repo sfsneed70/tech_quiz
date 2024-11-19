@@ -4,7 +4,7 @@
 
 ## Description
 
-A tech quiz that asks the user 10 questions and displays a score at the end.
+A tech quiz that asks the user ten questions and displays a score at the end.
 
 Deployed Application:  https://tech-quiz.onrender.com
 
